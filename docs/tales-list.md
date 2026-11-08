@@ -128,7 +128,7 @@ A weak man kills flies, boasts about it, and is sent to fight giants or monsters
 | 🇩🇪 | *Das tapfere Schneiderlein* / The Brave Little Tailor | Brothers Grimm, KHM 20 | 1812 | "Seven at one blow": the tailor tricks giants, a unicorn and a boar and marries the princess. | [Wikidata Q326838](https://www.wikidata.org/wiki/Q326838) |
 | 🇹🇷 | *Kara Mustafa the Hero* (Turkish title ❓) | Ignác Kúnos, *Forty-four Turkish Fairy Tales* | 1913 (English ed.) | A cowardly man wins heroic victories by luck and tricks. Retold as the picture book *Sixty at a Blow: A Tall Tale from Turkey* (1968), a "Turkish version of the Grimms' little tailor". ⚠️ The catalogue table (p. 422) matches Aarne 1640 to **TTV 330**, but TTV 330 (*Der Dumme und das Vieh*, p. 364–365, only 1 variant from Bayburt) is a story about a fool who kills the Ağa's cattle – **not** the Brave Tailor. Maybe a mistake in the table. So we keep Kúnos's *Kara Mustafa* as the Turkish version, without a TTV number. | [Text (sacred-texts)](https://sacred-texts.com/asia/ftft/ftft09.htm) · [Sixty at a Blow](https://www.biblioguides.com/pub/book/sixty-at-a-blow-a-tall-tale-from-turkey-1968) |
 | 🇮🇹 | ❓ title – 24 oral variants exist (Cirese & Serafini, *Tradizioni orali non cantate*) | | 1975 | | [Wikipedia](https://en.wikipedia.org/wiki/The_Brave_Little_Tailor) |
-| 🇯🇵 | ❓ | | | | |
+| 🇯🇵 | 一休さん/The Young Monk Ikkyu | | |A clever young Buddhist monk named Ikkyu uses his wit and creativity to solve difficult problems and outsmart arrogant adults, often teaching them valuable lessons through humorous tricks. | [Wikipedia](https://ja.wikipedia.org/wiki/%E4%B8%80%E4%BC%91%E3%81%95%E3%82%93_(%E6%9B%96%E6%98%A7%E3%81%95%E5%9B%9E%E9%81%BF)) |
 
 ## 8. ATU 425A – The Search for the Lost Husband (Cupid and Psyche)
 
@@ -139,7 +139,7 @@ A girl marries a mysterious (often animal or invisible) husband. She breaks a ru
 | 🇩🇪 | *Der Eisenofen* / The Iron Stove | Brothers Grimm, KHM 127 | 1815 | A princess frees a prince trapped in an iron stove, loses him, and must walk far in iron shoes to find him. | [Wikidata Q874583](https://www.wikidata.org/wiki/Q874583) |
 | 🇮🇹 | *Amor e Psiche* / Cupid and Psyche | Apuleius, *Metamorphoses* (Latin, Roman Empire) | 2nd c. AD | Psyche marries an invisible husband (Cupid), looks at him and loses him, and does Venus's tasks to win him back. The oldest written version of the type. | [Wikidata Q135662](https://www.wikidata.org/wiki/Q135662) |
 | 🇹🇷 | *Sabırtaşı* / The Stone of Patience | Eflatun Cem Güney | 1947 (new editions 1950, 1951, 1954) | Turkish type TTV 98 (= subtype 425A, "Cupid and Psyche"). Many Anatolian variants (Sivas, Tokat, Taşeli). | [Wikidata Q139261188](https://www.wikidata.org/wiki/Q139261188) · [Wikipedia](https://en.wikipedia.org/wiki/The_Stone_of_Patience_(Turkish_folktale)) |
-| 🇯🇵 | ❓ | | | | |
+| 🇯🇵 | 鶴の恩返し/The Crane Wife  | | |A man rescues an injured crane, and later a mysterious woman appears and becomes his wife. She weaves beautiful cloth but asks him never to watch her while she works. One day, he breaks his promise and discovers that she is actually the crane he saved. Having had her secret revealed, she leaves him and flies away. | [Wikidata Q4121243](https://www.wikidata.org/wiki/Q4121243) |
 
 ## 9. ATU 545B – Puss in Boots
 
