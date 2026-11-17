@@ -23,8 +23,8 @@ Unique tales (only one country) will come later.
 | 6 | ATU 707 – The Three Golden Children | ✅ | ✅ | ❓ | ✅ |
 | 7 | ATU 1640 – The Brave Little Tailor | ✅ | ✅ (title ❓) | ✅ | ✅ |
 | 8 | ATU 425A – The Search for the Lost Husband (Cupid and Psyche) | ✅ | ✅ | ✅ | ✅ |
-| 9 | ATU 545B – Puss in Boots | ✅ | ✅ | ❓ | ✅ TTV 34 *Der Müller und der Fuchs* |
-| 10 | ATU 310 – Rapunzel (The Maiden in the Tower) | ✅ | ✅ | ✅ | ✅ *Gülümser* (1 version, appendix C 12) |
+| 9 | ATU 545B – Puss in Boots | ✅ | ✅ | ✅ | ✅ TTV 34 *Der Müller und der Fuchs* |
+| 10 | ATU 310 – Rapunzel (The Maiden in the Tower) | ✅ | ✅ | ❌ | ✅ *Gülümser* (1 version, appendix C 12) |
 | 11 | ATU 410 – Sleeping Beauty | ✅ | ✅ | ✅ | ❌ not in catalogue table |
 | 12 | ATU 709 – Snow White | ✅ | ✅ | ❌ | ✅ TTV 167 *Nar tanesi* |
 
